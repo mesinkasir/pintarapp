@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# PINTAR APP
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/pintarapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+React with routing and switch Website template themes free download for build online shop with react.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+test demo before download : [https://pintarapp.web.app/](https://pintarapp.web.app/)
 
-### Markdown
+Download Documentation and installation :
+[https://www.hockeycomputindo.com/2021/02/react-online-shop-free-download-source.html](https://www.hockeycomputindo.com/2021/02/react-online-shop-free-download-source.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Video demo : [https://youtu.be/vC1P2_dI6lE](https://youtu.be/vC1P2_dI6lE)
 
-```markdown
-Syntax highlighted code block
+![free download react website template online shop](https://1.bp.blogspot.com/-yCvGhj6vo1A/YCKyvRkmfrI/AAAAAAAAMzI/q-qDuwhM5P4VlQlJEi3BMSzDgQPq8i7IACLcBGAsYHQ/s1008/free%2Bdownload%2Breact%2Bwebsite%2Bthemes%2Btemplate%2Bgratis%2B%25281%2529.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+![free download react website template online shop](https://1.bp.blogspot.com/-oSXG8vBbXnc/YCKywZthv2I/AAAAAAAAMzM/1USvDz9DawMYG6n3oG4kiq9Vn9aU8aX0ACLcBGAsYHQ/s928/free%2Bdownload%2Breact%2Bwebsite%2Bthemes%2Btemplate%2Bgratis%2B%25282%2529.png)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+![free download react website template online shop](https://1.bp.blogspot.com/-QsEfMHtTiac/YCKywxH5iTI/AAAAAAAAMzU/z-kBQj-0woIgPp5MQNi7WTI2Oc3JQvD4ACLcBGAsYHQ/s1344/free%2Bdownload%2Breact%2Bwebsite%2Bthemes%2Btemplate%2Bgratis%2B%25284%2529.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/pintarapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![free download react website template online shop](https://1.bp.blogspot.com/-elMyTTmHkJc/YCKyxA1oARI/AAAAAAAAMzY/sgYGq03rNLAnODbfQhLDGa6CsYqNmkpwgCLcBGAsYHQ/s687/free%2Bdownload%2Breact%2Bwebsite%2Bthemes%2Btemplate%2Bgratis%2B%25285%2529.png)
+
+
+![free download react website template online shop](https://1.bp.blogspot.com/-579yTevNjdY/YCKyxxuW7QI/AAAAAAAAMzc/E_KaRBwabLYfR3K4wxps50D5NPOqNdNGACLcBGAsYHQ/s1349/free%2Bdownload%2Breact%2Bwebsite%2Bthemes%2Btemplate%2Bgratis%2B%25286%2529.png)
+
+
+-------------------------------------------------
+
+### Installation
+
+Need :
++ node npm / git
++ react cli
+
+install node npm then install react globaly
+
+download source code and run npm install && npm start
+
+for build run npm build and push repo and integration with host , your website is live now.
+
+Documentation and live source code you can edit on here : 
+
+[https://www.hockeycomputindo.com/2021/02/react-online-shop-free-download-source.html](https://www.hockeycomputindo.com/2021/02/react-online-shop-free-download-source.html)
