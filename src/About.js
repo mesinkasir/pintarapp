@@ -30,11 +30,11 @@ const About = () => (
           <p>Hubungi kami untuk informasi </p>
           <p>
             WhatsApp : <br />
-            +6285646104747
+            +62895339403223
           </p>
           <p>
             Call Us : <br />
-            +6285331361404
+            +62895339403223
           </p>
           <p>
             <a href="https://goo.gl/maps/V2Wxp2RcbF3cHxFC6" target="_blank">
